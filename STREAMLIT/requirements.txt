@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+streamlit
+plotly.express
+Pillow
+sqlalchemy==1.4.40
